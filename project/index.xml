@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Bin Peng</title>
+    <title>Projects | Bin Peng&#39;s personal page</title>
     <link>https://pengbinpeluo.github.io/project/</link>
       <atom:link href="https://pengbinpeluo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
