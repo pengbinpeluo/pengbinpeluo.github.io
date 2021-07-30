@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>吳恩達 | Academic</title>
-    <link>https://academic-demo.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <title>吳恩達 | Bin Peng</title>
+    <link>https://pengbinpeluo.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <atom:link href="https://pengbinpeluo.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
     <description>吳恩達</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://pengbinpeluo.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>吳恩達</title>
-      <link>https://academic-demo.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <link>https://pengbinpeluo.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://academic-demo.netlify.app/post/getting-started/</link>
+      <link>https://pengbinpeluo.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/getting-started/</guid>
+      <guid>https://pengbinpeluo.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
