@@ -1,0 +1,35 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 115
+
+title: We are hiring
+
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "0", "30px", "0"]
+---
+The Agroecosystem Sustainability Center (ASC) at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu) has multiple opening positions for postdoctoral researchers and Ph.D. students working on modeling and remote sensing over the agroecosystems. Please refer to the {{< icon name="download" pack="fas" >}} {{< staticref "uploads/UIUC_AgroecosystemSustainability_Oct2021.pdf" "newtab" >}}recruiting flyer {{< /staticref >}} for more details.
+
+* <strong>Area 1: Modeling the Biogeochemical Cycling of Agroecosystem.</strong> Expertise/interest in soil biogeochemistry, ecosystem modeling, and advanced data-model integration. We will recruit both postdoctoral researcher / Ph.D. student.
+
+* <strong>Area 2: Multi-Scale Hyperspectral Sensing for Sustainable Agriculture.</strong> Expertise/interest in airborne, satellite and proximal hyperspectral sensing to quantify crop traits, soil properties and management practices in the U.S. Midwest croplands. We will recruit both postdoctoral researcher / Ph.D. student.
+
+* <strong>Area 3: High-resolution Soil Moisture Sensing and Modeling.</strong> Expertise/interest in microwave remote sensing for soil moisture, hydrological modeling and data assimilation. We will recruit both postdoctoral researcher / Ph.D. student.
+
+* <strong>Area 4: Remote Sensing of Grassland Productivity.</strong> Expertise/interest in multi-scale remote sensing to monitor high-resolution grassland productivity in real time and assess the sensitivity of pasture and rangeland to climate change at regional scale. We will recruit both postdoctoral researcher / Ph.D. student.
+
+Candidates with strong backgrounds in programming, process-based modeling and remote sensing would be highly preferred. Please send a cover letter, CV, and contact information of three references via email to Ms. Xin Lin (linxin@illinois.edu). 
+
+UIUC ranks top worldwide in Agricultural Science, Computer Science & Engineering, and Environmental Science. The University of Illinois administration, faculty, and staff embrace diversity and are committed to attracting qualified candidates who also embrace and value diversity and inclusivity. International students have the flexibility to study remotely considering the COVID-19 situation.
+
