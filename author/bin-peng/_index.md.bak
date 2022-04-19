@@ -1,5 +1,5 @@
 ---
-bio: My research interests include ecohydrology, agroecology, land-atmosphere interaction, earth system science, and remote sensing.
+bio: My research interests include ecohydrology, agroecology, remote sensing, ecosystem modeling and crop modeling.
 education:
   courses:
   - course: Ph.D. in Geoinformatics
@@ -15,9 +15,9 @@ highlight_name: false
 interests:
 - Ecohydrology
 - Agroecology
-- Land-Atmosphere Interaction
-- Earth System Science
 - Remote Sensing
+- Ecosystem modeling
+- Crop modeling
 organizations:
 - name: University of Illinois at Urbana-Champaign
   url: https://illinois.edu/
@@ -61,4 +61,4 @@ superuser: true
 title: Bin Peng
 ---
 
-I am a Research Assistant Professor at [Department of Natural Resources and Environmental Sciences (NRES)](https://nres.illinois.edu) and Senior Research Scientist at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu). My primary research interests are hydrological, crop, and ecosystem modeling in the framework of earth system models, remote sensing of soil moisture and crop productivity, and data-model integration. The overarching goal of my research is to deepen our understanding of land-atmosphere interactions, terrestrial carbon-water-nutrient cycles, and human impacts on earth systems under climate change and land use intensification. The societal drivers for these research interests include climate change adaptation and mitigation, managing the risk of hydrometeorological and hydroclimatological disasters like droughts and floods, as well as ensuring water, energy and food securities and environmental sustainability. Over the past years, I have been focusing on the U.S. Midwestern agroecosystems.
+I am a Research Assistant Professor at [Department of Natural Resources and Environmental Sciences (NRES)](https://nres.illinois.edu) and Senior Research Scientist at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu). My primary research interests are computational modeling (hydrological, crop, ecosystem and earth system modeling), remote sensing of soil moisture and crop productivity, and data-model integration. The overarching goal of my research is to deepen our understanding of terrestrial carbon-water-nutrient cycles and human impacts on ecosystems under climate change and land use intensification. The societal drivers for these research interests include climate change adaptation and mitigation, managing the risk of hydrometeorological and hydroclimatological disasters like droughts and floods, as well as ensuring water, energy and food securities and environmental sustainability. Over the past years, I have been focusing on the U.S. Midwestern agroecosystems.
