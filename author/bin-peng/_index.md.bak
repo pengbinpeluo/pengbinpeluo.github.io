@@ -1,0 +1,64 @@
+---
+bio: My research interests include ecohydrology, agroecology, land-atmosphere interaction, earth system science, and remote sensing.
+education:
+  courses:
+  - course: Ph.D. in Geoinformatics
+    institution: Chinese Academy of Sciences
+    url: https://www.cas.cn
+    year: 2016
+  - course: B.S. in Geography
+    institution: Nanjing University
+    url: https://www.nju.edu.cn
+    year: 2011
+email: ""
+highlight_name: false
+interests:
+- Ecohydrology
+- Agroecology
+- Land-Atmosphere Interaction
+- Earth System Science
+- Remote Sensing
+organizations:
+- name: University of Illinois at Urbana-Champaign
+  url: https://illinois.edu/
+role: Research Assistant Professor
+social:
+- icon: envelope
+  icon_pack: fas
+#  link: /#contact
+  link: "mailto:binpeng@illinois.edu"
+- display:
+    header: false
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?user=tkya-dMAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Bin-Peng-21
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7284-3010
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1432075/bin-peng/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/pengbinpeluo
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/bin-peng-502a435a/
+- icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/pengbinpeluo
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/peng.bin.7
+
+
+ 
+superuser: true
+title: Bin Peng
+---
+
+I am a Research Assistant Professor at [Department of Natural Resources and Environmental Sciences (NRES)](https://nres.illinois.edu) and Senior Research Scientist at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu). My primary research interests are hydrological, crop, and ecosystem modeling in the framework of earth system models, remote sensing of soil moisture and crop productivity, and data-model integration. The overarching goal of my research is to deepen our understanding of land-atmosphere interactions, terrestrial carbon-water-nutrient cycles, and human impacts on earth systems under climate change and land use intensification. The societal drivers for these research interests include climate change adaptation and mitigation, managing the risk of hydrometeorological and hydroclimatological disasters like droughts and floods, as well as ensuring water, energy and food securities and environmental sustainability. Over the past years, I have been focusing on the U.S. Midwestern agroecosystems.
