@@ -1,0 +1,30 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 105
+
+title: Teaching & Mentoring
+
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "0", "30px", "0"]
+---
+* <strong>Class Teaching</strong>
+    * UIUC NRES 598: Terrestrial Remote Sensing Applications (Spring of 2017, 2018, and 2019, Instructor for selected chapters and TA)
+	* UIUC NRES 512: Biometeorology (Spring of 2022, Instructor for selected chapters)
+	* UIUC NRES 499: Ecohydrology and Water Management (Fall of 2017, Instructor for selected chapters and TA)
+
+* <strong>Student Mentoring</strong>
+	* Graduate student: Yi Yang (NRES, 2018-present)
+	* Graduate interns: Nimisha Jasuja (Informatics, 2022)
+    * Undergraduate interns: Bowen Song (2018, SPIN), Brain Yan (2019, SPIN), Junrui Ni (2019, SPIN), Yihong Jian (2021, SPIN), Chen Song (2021, SPIN), Isabelle Wagenvoord (2022, REU)
