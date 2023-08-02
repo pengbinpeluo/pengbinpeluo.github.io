@@ -2,11 +2,11 @@
 bio: My research interests include ecohydrology, agroecology, remote sensing, ecosystem modeling and crop modeling.
 education:
   courses:
-  - course: Ph.D. in Geoinformatics
+  - course: Ph.D. in Geoinformatics & Hydrology
     institution: Chinese Academy of Sciences
     url: https://www.cas.cn
     year: 2016
-  - course: B.S. in Geography
+  - course: B.S. in Geography & Hydrology
     institution: Nanjing University
     url: https://www.nju.edu.cn
     year: 2011
@@ -14,14 +14,17 @@ email: ""
 highlight_name: false
 interests:
 - Ecohydrology
-- Agroecology
+- Water Quality
+- Agriculture
+- Agroecosystem Modeling
+- Hydrological Modeling
 - Remote Sensing
-- Ecosystem modeling
-- Crop modeling
+- Digital Agriculture
+- Precision Conservation
 organizations:
 - name: University of Illinois at Urbana-Champaign
   url: https://illinois.edu/
-role: Research Assistant Professor
+role: Incoming Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -61,4 +64,4 @@ superuser: true
 title: Bin Peng
 ---
 
-I am a Research Assistant Professor at [Department of Natural Resources and Environmental Sciences (NRES)](https://nres.illinois.edu) and Senior Research Scientist at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu). I was broadly trained in both science (geography, agriculture, hydrology, ecology, crop physiology, global climate change) and engineering (computer engineering and high-performance computing, civil & environmental engineering, and geoinformatics engineering). My primary research interests are computational and process-based modeling (hydrological, cropping system, ecosystem and earth system modeling), remote sensing, model-data integration, geospatial big data and artificial intelligence for digital agriculture, sustainable agri-food systems and human-environment interactions. The overarching goal of my research is to deepen our understanding of terrestrial carbon-water-nutrient cycles and human impacts on managed or unmanaged ecosystems under climate change and land use intensification, to develop innovative engineering technologies and finally find systems solutions for sustainable agri-food systems and ecosystem management. The societal drivers for these research interests include climate change adaptation and mitigation, managing the risk of hydrometeorological and hydroclimatological disasters like droughts and floods, ensuring water, energy and food securities and environmental sustainability, as well as fostering rural economy and farmer wellbeing. Over the past years, I have been focusing on the U.S. Midwestern agroecosystems. 
+I am an incoming Tenure-track Assistant Professor on Water (quality and quantity) and Agriculture at [Department of Crop Sciences](https://cropsciences.illinois.edu/). Before that, I am a Research Assistant Professor at [Department of Natural Resources and Environmental Sciences (NRES)](https://nres.illinois.edu) and Senior Research Scientist at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu). I was broadly trained in both science (hydrology, agriculture, geography, ecology, crop physiology, and global climate change) and engineering (civil & environmental engineering, geoinformatics engineering, and high-performance computing). My primary research interests are to understand the complex water, nutrient, and carbon cycles over the broad agricultural landscape. I use field measurement, computational and process-based modeling (hydrological, cropping system, ecosystem and earth system modeling), remote sensing, model-data integration, geospatial big data and artificial intelligence in my research to push the boundary of science and develop innovative technologies and systems solutions in digital agriculture, precision conservation, sustainable agri-food systems and human-environment interactions under land use intensification and climate change. The societal drivers for these research interests include ensuring water, energy and food securities and environmental sustainability, as well as fostering rural economy and farmer wellbeing.
