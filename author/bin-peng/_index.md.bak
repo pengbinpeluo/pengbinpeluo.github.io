@@ -2,7 +2,7 @@
 bio: My research interests include ecohydrology, agroecology, remote sensing, ecosystem modeling and crop modeling.
 education:
   courses:
-  - course: Ph.D. in Geoinformatics & Hydrology
+  - course: Ph.D. in Hydrology & Geoinformatics
     institution: Chinese Academy of Sciences
     url: https://www.cas.cn
     year: 2016
@@ -14,6 +14,7 @@ email: ""
 highlight_name: false
 interests:
 - Ecohydrology
+- Watershed Hydrology
 - Water Quality
 - Agriculture
 - Agroecosystem Modeling
@@ -64,4 +65,4 @@ superuser: true
 title: Bin Peng
 ---
 
-I am an incoming tenure-track Assistant Professor of Water (quality and quantity) and Agriculture at [Department of Crop Sciences](https://cropsciences.illinois.edu/), [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). Before that, I am a Research Assistant Professor at [Department of Natural Resources and Environmental Sciences (NRES)](https://nres.illinois.edu) and Senior Research Scientist at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). My core research interests center around unraveling the complexities of water, nutrient, and carbon cycles within diverse agricultural landscapes and their interconnectedness with downstream water quality. To tackle these challenges, my research leverages various tools and methods, including field measurement, computational and process-based modeling (hydrological, cropping system, ecosystem and earth system modeling), remote sensing, geospatial big data, model-data integration, and artificial intelligence. I am deeply motivated to drive transdisciplinary, convergence, and use-inspired research to break new ground in scientific exploration. Moreover, I am passionate about developing innovative technologies and systems solutions in digital agriculture and precision conservation to foster sustainable agri-food systems and preserve healthy watersheds amidst the pressures of land use intensification and climate change. The driving force behind my research pursuits lies in addressing critical societal issues, including ensuring water, energy and food security, enhancing water quality and environmental sustainability, and nurturing rural economies and human well-being both in the United States and across the globe.
+I am an incoming tenure-track Assistant Professor of Water (quality and quantity) and Agriculture at [Department of Crop Sciences](https://cropsciences.illinois.edu/), [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). Before that, I am a Research Assistant Professor at [Department of Natural Resources and Environmental Sciences (NRES)](https://nres.illinois.edu) and Senior Research Scientist at [Institute for Sustainability, Energy, and Environment (ISEE)](https://sustainability.illinois.edu), [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). My core research interests center around unraveling the complexities of water, nutrient, and carbon cycles within diverse agricultural landscapes and their interconnectedness with downstream water quality. To tackle these challenges, my research leverages various tools and methods, including field measurement, computational and process-based modeling (hydrological, cropping system, ecosystem and earth system modeling), remote sensing, geospatial big data, model-data integration, and artificial intelligence. I am deeply motivated to drive transdisciplinary, convergence, and use-inspired research for breaking new ground in scientific exploration. Moreover, I am passionate about developing innovative technologies and systems solutions in digital agriculture and precision conservation to foster sustainable agri-food systems and preserve healthy watersheds amidst the pressures of land use intensification and climate change. The driving force behind my research pursuits lies in addressing critical societal issues, including ensuring water, energy and food security, enhancing water quality and environmental sustainability, and nurturing rural economies and human well-being both in the United States and across the globe.
