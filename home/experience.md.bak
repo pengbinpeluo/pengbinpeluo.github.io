@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Incoming Assistant Professor
-    company: University of Illinois at Urbana-Champaign
+    company: University of Illinois Urbana-Champaign
     company_url: 'https://illinois.edu'
     company_logo: org-illinois
     location: Urbana-Champaign
@@ -37,7 +37,7 @@ experience:
 #        * Deploying
 
   - title: Research Assistant Professor
-    company: University of Illinois at Urbana-Champaign
+    company: University of Illinois Urbana-Champaign
     company_url: 'https://illinois.edu'
     company_logo: org-illinois
     location: Urbana-Champaign
@@ -51,7 +51,7 @@ experience:
 #        * Deploying
 
   - title: Senior Research Scientist
-    company: University of Illinois at Urbana-Champaign
+    company: University of Illinois Urbana-Champaign
     company_url: 'https://illinois.edu'
     company_logo: org-illinois
     location: Urbana-Champaign
@@ -59,7 +59,7 @@ experience:
     date_end: '2023-12-31'
 
   - title: Research Scientist
-    company: University of Illinois at Urbana-Champaign
+    company: University of Illinois Urbana-Champaign
     company_url: 'https://illinois.edu'
     company_logo: org-illinois
     location: Urbana-Champaign
@@ -68,7 +68,7 @@ experience:
 #    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Postdoctoral Research Fellow
-    company: University of Illinois at Urbana-Champaign
+    company: University of Illinois Urbana-Champaign
     company_url: 'https://illinois.edu'
     company_logo: org-illinois
     location: Urbana-Champaign
