@@ -34,8 +34,8 @@ a:hover { text-decoration: underline; }
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
+  justify-content: flex-start;
+  gap: 1.5rem;
 }
 .site-title {
   font-weight: 700;
