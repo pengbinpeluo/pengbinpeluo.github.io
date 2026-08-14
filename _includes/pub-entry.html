@@ -1,0 +1,6 @@
+<li class="pub-entry">
+  <span class="pub-authors">{{ include.pub.authors }}</span>
+  ({{ include.pub.year }}).
+  <a class="pub-title" href="{{ include.pub.url }}" target="_blank" rel="noopener">{{ include.pub.title }}</a>.
+  <span class="pub-venue">{{ include.pub.venue }}</span>{% if include.pub.note %}. <span class="pub-note">({{ include.pub.note }})</span>{% endif %}.
+</li>

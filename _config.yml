@@ -1,0 +1,68 @@
+title: "Bin Peng"
+tagline: "Assistant Professor · WACI Lab · University of Illinois Urbana-Champaign"
+description: >-
+  Personal academic site for Bin Peng, Assistant Professor in the Department
+  of Crop Sciences at the University of Illinois Urbana-Champaign, leading
+  the Water, Agriculture, and Conservation Innovation (WACI) Lab.
+url: "https://pengbinpeluo.github.io"
+baseurl: ""
+
+author:
+  name: "Bin Peng"
+  role: "Assistant Professor"
+  organization: "University of Illinois Urbana-Champaign"
+  department_url: "https://cropsciences.illinois.edu/"
+  university_url: "https://illinois.edu"
+  email: "binpeng@illinois.edu"
+  office: "AW-101 Turner Hall, MC-046, 1102 S. Goodwin Ave., Urbana, IL 61801"
+  affiliations:
+    - name: "College of Agricultural, Consumer and Environmental Sciences"
+      url: "https://aces.illinois.edu/"
+    - name: "Institute for Sustainability, Energy, and Environment"
+      url: "https://sustainability.illinois.edu/"
+    - name: "National Center for Supercomputing Applications"
+      url: "https://www.ncsa.illinois.edu/"
+    - name: "Carl R. Woese Institute for Genomic Biology"
+      url: "https://www.igb.illinois.edu/"
+
+# Link out to the WACI Lab site instead of duplicating team / full pubs / hiring here.
+# Verified 2026-08-14: live site, publication list cross-checked against Bin Peng's CV.
+waci_lab_url: "https://waci-lab.github.io"
+
+social:
+  - name: "Google Scholar"
+    icon: "scholar"
+    url: "https://scholar.google.com.hk/citations?user=tkya-dMAAAAJ&hl=en"
+  - name: "ResearchGate"
+    icon: "researchgate"
+    url: "https://www.researchgate.net/profile/Bin-Peng-21"
+  - name: "ORCID"
+    icon: "orcid"
+    url: "https://orcid.org/0000-0002-7284-3010"
+  - name: "Publons"
+    icon: "publons"
+    url: "https://publons.com/researcher/1432075/bin-peng/"
+  - name: "GitHub"
+    icon: "github"
+    url: "https://github.com/pengbinpeluo"
+  - name: "LinkedIn"
+    icon: "linkedin"
+    url: "https://linkedin.com/in/bin-peng-502a435a/"
+  - name: "Twitter"
+    icon: "twitter"
+    url: "https://twitter.com/pengbinpeluo"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

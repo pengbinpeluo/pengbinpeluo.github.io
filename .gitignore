@@ -1,0 +1,23 @@
+# Internal handoff note -- not for the public repo (see README.md).
+CLAUDE.md
+
+# Defense in depth: never let a CV or other office doc get committed
+# from this directory.
+*.docx
+*.doc
+
+# Jekyll build output / cache
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Bundler
+.bundle/
+vendor/
+
+# Local Claude Code settings (machine-specific, not shared)
+.claude/settings.local.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
