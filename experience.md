@@ -39,7 +39,7 @@ permalink: /experience/
 </section>
 
 <section class="section">
-  <h2>Honors &amp; Awards</h2>
+  <h2>Selected Honors &amp; Awards</h2>
   <ul class="timeline">
   {% for honor in site.data.honors %}
     <li class="timeline-item">
