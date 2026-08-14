@@ -15,8 +15,8 @@ _site/
 .bundle/
 vendor/
 
-# Local Claude Code settings (machine-specific, not shared)
-.claude/settings.local.json
+# Claude Code local runtime state/settings (machine-specific, not shared)
+.claude/
 
 # OS cruft
 .DS_Store

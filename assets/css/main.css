@@ -42,12 +42,15 @@ a:hover { text-decoration: underline; }
   font-size: 1.15rem;
   color: var(--text);
 }
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+}
 .site-nav a {
-  margin-left: 1rem;
   color: var(--muted);
   font-size: 0.95rem;
 }
-.site-nav a:first-child { margin-left: 0; }
 .site-nav a:hover { color: var(--accent); }
 
 main.wrap {
@@ -123,6 +126,7 @@ h1 { margin-bottom: 0.25rem; }
 .social-links a { margin-right: 0.5rem; }
 
 @media (max-width: 600px) {
-  .site-nav a { margin-left: 0.6rem; font-size: 0.85rem; }
+  .site-nav { gap: 0.3rem 0.6rem; }
+  .site-nav a { font-size: 0.85rem; }
   .timeline-item { grid-template-columns: 1fr; gap: 0.15rem; }
 }
