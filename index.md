@@ -34,13 +34,13 @@ title: Home
     <li>Biogeochemistry</li>
     <li>Sustainable Agriculture</li>
     <li>Soil-Water-Nutrient Conservation</li>
-    <li>Cropping System Modeling</li>
-    <li>Agroecosystem Modeling</li>
-    <li>Hydrological Modeling</li>
-    <li>Remote Sensing</li>
     <li>Digital Agriculture</li>
     <li>Precision Conservation</li>
     <li>AI for Science</li>
     <li>Environmental Data Science</li>
+    <li>Hydrological Modeling</li>
+    <li>Cropping System Modeling</li>
+    <li>Agroecosystem Modeling</li>
+    <li>Remote Sensing</li>
   </ul>
 </section>
