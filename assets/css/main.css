@@ -35,7 +35,8 @@ a:hover { text-decoration: underline; }
   flex-wrap: wrap;
   align-items: center;
   justify-content: flex-start;
-  gap: 4.75rem;
+  row-gap: 0.75rem;
+  column-gap: 4.75rem;
 }
 .site-title {
   font-weight: 700;
